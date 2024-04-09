@@ -1,6 +1,8 @@
-Evoman is a video game playing framework inspired on Megaman.
+# Evoman-Specialist_player_agent
 
-A demo can be found here:  https://www.youtube.com/watch?v=ZqaMjd1E4ZI
+<b>Subject:</b> Assignment 2 of Evolutionary Computing Course - Vrije Universiteit Amsterdam, 2021
+
+<b>Task:</b> Evoman (https://www.youtube.com/watch?v=ZqaMjd1E4ZI) is a video game framework inspired on Megaman. The task is to win a particular enemy in the game with the developed model.
 
 To reproduce our results follow the following steps:
 1) run pip install -r requirements.txt
